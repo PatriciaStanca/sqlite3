@@ -1,0 +1,12 @@
+# Virtual environment
+.venv/
+
+# SQLite database files
+*.db
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Exported CSV files
+*.csv
